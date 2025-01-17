@@ -32,3 +32,22 @@ UI design is crucial as it directly impacts the User Experience (UX). The goal o
 ## Conclusion
 
 A good UI design is essential for software products, whether it's a desktop application, mobile app, or web platform. Focusing on UI design not only improves functionality but also provides users with a seamless and engaging experience.
+
+
+to access the files  clone the repository using the command below 
+
+```bash
+git clone https://github.com/Anne-Okingo/UI-User-Interface.git
+```
+
+```bash
+cd ColoursandMoodboard
+```
+
+## Author
+
+**Anne Okingo**
+- GitHub: [@Anne-Okingo](https://github.com/Anne-Okingo)
+
+© 2024 Anne Okingo. All rights reserved.
+

@@ -41,7 +41,7 @@ git clone https://github.com/Anne-Okingo/UI-User-Interface.git
 ```
 
 ```bash
-cd ColoursandMoodboard
+cd building-an-interface
 ```
 
 ## Author
